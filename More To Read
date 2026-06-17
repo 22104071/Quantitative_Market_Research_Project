@@ -1,0 +1,52 @@
+Technologies Used
+Programming Language
+Python
+Data Analysis
+Pandas
+NumPy
+Visualization
+Matplotlib
+Machine Learning
+Scikit-Learn
+Models
+Random Forest Classifier
+Installation
+
+Clone the repository:
+
+git clone https://github.com/yourusername/quantitative-trading-framework.git
+
+cd quantitative-trading-framework
+
+Install dependencies:
+
+pip install -r requirements.txt
+Run the Project
+
+Launch Jupyter Notebook:
+
+jupyter notebook
+
+Execute:
+
+Strategy_Backtesting.ipynb
+
+followed by:
+
+ML_Strategy_Selection.ipynb
+Future Improvements
+Walk-Forward Validation
+Portfolio Optimization
+Multi-Asset Backtesting
+XGBoost Strategy Selection
+LSTM-Based Market Regime Prediction
+Real-Time Market Data Integration
+Streamlit Dashboard Deployment
+Key Learnings
+Quantitative Research
+Systematic Trading Strategies
+Time Series Feature Engineering
+Market Regime Detection
+Financial Performance Analysis
+Machine Learning for Finance
+Backtesting Methodologies
