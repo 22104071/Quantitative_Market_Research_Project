@@ -1,0 +1,21 @@
+Project Structure
+Quantitative-Trading-Framework/
+│
+├── data/
+│   └── NIFTY50.csv
+│
+├── notebooks/
+│   ├── Strategy_Backtesting.ipynb
+│   └── ML_Strategy_Selection.ipynb
+│
+├── outputs/
+│   ├── Equity_Curve.png
+│   ├── Feature_Importance.png
+│   └── Strategy_Comparison.png
+│
+├── src/
+│   ├── data_preprocessing.py
+│   ├── indicators.py
+│   ├── strategies.py
+│   ├── backtesting.py
+│   └── ml_model.py
